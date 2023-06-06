@@ -3,6 +3,12 @@
 A music mixer for famous songs from the game Undertale.
 ![image](https://github.com/huparelaa/Undertale_Mixer/assets/81880485/d6b204be-0abd-47b7-b107-76cdaf4d55fb)
 
+## Miembros
+
+* [Hobarlan Uparela](https://github.com/huparelaa)
+* [Andres Prada](https://github.com/Pradita777)
+* [David Gonzalez](https://github.com/dgonzalezt2)****
+
 ## Installation
 
 To run this project, ensure that you have the required dependencies installed. You can install them using the `requirements.txt` file:
